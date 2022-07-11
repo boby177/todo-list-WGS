@@ -1,6 +1,8 @@
-# ToDoList
+# ToDoList WGS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
+
+![thumb](https://raw.githubusercontent.com/boby177/todo-list-WGS/main/Screenshot_2.png)
 
 ## Development server
 
